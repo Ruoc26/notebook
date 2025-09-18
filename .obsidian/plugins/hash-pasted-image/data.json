@@ -1,0 +1,8 @@
+{
+  "hashAlgorithm": "sha512",
+  "encodingDigest": "hex",
+  "copyImageFileSupport": true,
+  "othersFileSupport": false,
+  "notification": true,
+  "hashContext": true
+}

@@ -166,11 +166,15 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "0acb48efa095ad3b",
   "lastOpenFiles": [
+    "zsh的安装和配置.md",
+    "windows安装LLama-Factory.md",
+    "cmd命令行美化.md",
     "未命名.base",
     "Obsidian.md",
     "assets/images/4bcf4d433c26193e5aa07c5cfb1124a3bd0f38fcf6e79e3c701a5fa593eb02abf1095e370e44372288721e89dbc72d0cdc5b3f14f24fbc909c1401c70865a0d7.png",

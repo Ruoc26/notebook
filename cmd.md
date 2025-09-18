@@ -46,3 +46,4 @@ oh-my-posh font install meslo
    	}
 }
 ```
+设置`VSCode`字体，打开设置并搜索`Font Family`字段，将之修改为`MesloLGM Nerd Font`。

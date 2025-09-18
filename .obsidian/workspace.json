@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zsh的安装和配置.md",
+                "file": "docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "zsh的安装和配置"
+              "title": "docker"
             }
           }
         ]
@@ -172,25 +172,26 @@
   },
   "active": "0acb48efa095ad3b",
   "lastOpenFiles": [
-    "Obsidian.md",
-    "assets/images/715ac9b2946d440969fdfbee26bd1da7d0dbfbcfc0e43fe3c3cf2651619881560dd32fe14e461c83b28281bc5cf832580d2550a77aa15b0b70fa9eb83da7860f.png",
-    "assets/images/16df54f3f87f025bfaa0166b3eeace94e9c5b46745744e9c845edd8daecf51a7dc00a947c677d7daa943f03d3dd3ff158bd2cbbd176a204966a0afea82abefbb.png",
     "assets/images/8e57c61518f003c8f7b58f753334fab99295ea429351e14c0ee13f154d8786515cc2c4c13acc7e123e0d388f8295eab671b823788bf302362d810ab2b48e63b3.png",
-    "assets/images/23c612387c71fbb635068dd6c26d97679ebc98437f815a45ba5e513a15424d12728ba26728e9c5b8d3637e4ae57907f858ae3002bed84f0edda90b02fa87a8cc.png",
-    "assets/images/b4c08aece0894d7ddd54996fc3a292f2f77e832b3a63cbc1fd48b207c1484c3418302d8613c1038c2cbe5fbc962371bd8a79f5c5c4a30f3e0cc7f58ffee42a0d.png",
-    "assets/images/6415b2c66c09cc6ceb4c388472a90365514498dc1ae76f80d0280c6082d7f40423fc8657b537bfc5eedcbf84053cd005d1a2e8e593f0f8bf471e7600a8d79edb.png",
-    "assets/images/d1a86d67b8a46db2237e91a71ef86286bd3e0f849a1071cf3fb93a87f51a9dd23dd92c4772c6c222471110289f05bb0b69fef3dd1d9f1bf24869a75239dc070d.png",
-    "assets/images/0c0a206c8a1fa5cc9c34dfb15f271f784dc8a7a6dd530eea9a0a071405deedb9ffa019cfae4b3cd9dbfec6b3921e82ff68caf58a9daa3a17c4d11dd60d2005f9.png",
+    "docker.md",
+    "cmd.md",
+    "zsh.md",
+    "wsl.md",
+    "picgo.md",
+    "Obsidian.md",
+    "LLama-Factory.md",
+    "git.md",
+    "assets/images/f2f00ab09d918ffc5ae2dfee00cb584ca2ca1024677e65b7826e38c4c378698df7b0a9304a0c21cc960bcc597c03399e81d10b448d7dca011405e2b556fa2625.png",
     "assets/images/de14671499fc77c20cc0ad67510bc0faef428ece981b21d639a9cdaf35fd12cfd8d1246b3e6bb19191989121a649e28209fac9916280c7a730cd55a9f4d2844c.png",
-    "assets/images/0a1bdb43851ea1caa2465564a6ad5800117eb5444aa35f0e1030a967ef792d010902c1b287a3d53f4731c6550c85039b39d92cd2f1bf9b337754cc7e123f5603.png",
-    "更换wsl的子系统路径.md",
+    "assets/images/d3b3e58f72afd0400df7543a0b9618a10a17ee21611fccd7ea082dfb2f35013914d5fef6bd4ff151fb9abd9c69e97e122c5b447a9ea0ef7e3e1dcaa244406e26.png",
+    "assets/images/d1a86d67b8a46db2237e91a71ef86286bd3e0f849a1071cf3fb93a87f51a9dd23dd92c4772c6c222471110289f05bb0b69fef3dd1d9f1bf24869a75239dc070d.png",
+    "assets/images/c160dbbaaf258d1ee01c59213715f3d1c5e9954cb3ae728e84658b473e34fc825276946a98117a85fbcc58a70d2e470234720c36f9964c0c8375abfeaab61b18.png",
+    "assets/images/b4c08aece0894d7ddd54996fc3a292f2f77e832b3a63cbc1fd48b207c1484c3418302d8613c1038c2cbe5fbc962371bd8a79f5c5c4a30f3e0cc7f58ffee42a0d.png",
+    "assets/images/657661553fb8734ece543afb07d307f7bb703ba11a355e5c396990cc459ad532645eb6709903ad769cbc1a5995973f2f76152c043a55d2d402f3e6acc76a8b1c.png",
+    "assets/images/4523190c42855996cfdd6cece461d7f94c97f6773a453557c5cdaaa904626f1a4908db268ec4e0c7b7dd96ff34cb8208220e0256bb2a636a573b07539d68bb3b.png",
+    "assets/images/6415b2c66c09cc6ceb4c388472a90365514498dc1ae76f80d0280c6082d7f40423fc8657b537bfc5eedcbf84053cd005d1a2e8e593f0f8bf471e7600a8d79edb.png",
+    "assets/images/5870c1b7825e81c297ef2f99518d65744cb0239fa8d21745aa62e07f6e7126810894dd5d1099a52057b2bbcb708f4a82132e6607949954c22b776d0b9ad9277c.png",
     "安装并配置kali-linux.md",
-    "picgo的安装与配置.md",
-    "常用git命令.md",
-    "安装docker-desktop-windows.md",
-    "zsh的安装和配置.md",
-    "windows安装LLama-Factory.md",
-    "cmd命令行美化.md",
     "未命名.base",
     "assets/images",
     "assets",

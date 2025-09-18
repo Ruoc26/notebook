@@ -6,10 +6,10 @@ git clone --depth 1 https://github.com/hiyouga/LLaMA-Factory.git
 环境配置。
 若使用 `uv`。
 ```sh
-# 创建虚拟环境
-uv venv -p 310
 uv sync --extra torch --extra metrics --prerelease=allow
 ```
+在执行之前，还需要下载`cudatoolkit`以及`cudnn`。
+
 若操作系统为`windows`,需要额外下载支持 `cuda`的`torch`。
 ```sh
 uv pip uninstall torch torchvision

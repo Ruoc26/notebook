@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian.md",
+                "file": "zsh的安装和配置.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian"
+              "title": "zsh的安装和配置"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "0acb48efa095ad3b",
   "lastOpenFiles": [
+    "Obsidian.md",
     "assets/images/715ac9b2946d440969fdfbee26bd1da7d0dbfbcfc0e43fe3c3cf2651619881560dd32fe14e461c83b28281bc5cf832580d2550a77aa15b0b70fa9eb83da7860f.png",
     "assets/images/16df54f3f87f025bfaa0166b3eeace94e9c5b46745744e9c845edd8daecf51a7dc00a947c677d7daa943f03d3dd3ff158bd2cbbd176a204966a0afea82abefbb.png",
     "assets/images/8e57c61518f003c8f7b58f753334fab99295ea429351e14c0ee13f154d8786515cc2c4c13acc7e123e0d388f8295eab671b823788bf302362d810ab2b48e63b3.png",
@@ -182,7 +183,6 @@
     "assets/images/0c0a206c8a1fa5cc9c34dfb15f271f784dc8a7a6dd530eea9a0a071405deedb9ffa019cfae4b3cd9dbfec6b3921e82ff68caf58a9daa3a17c4d11dd60d2005f9.png",
     "assets/images/de14671499fc77c20cc0ad67510bc0faef428ece981b21d639a9cdaf35fd12cfd8d1246b3e6bb19191989121a649e28209fac9916280c7a730cd55a9f4d2844c.png",
     "assets/images/0a1bdb43851ea1caa2465564a6ad5800117eb5444aa35f0e1030a967ef792d010902c1b287a3d53f4731c6550c85039b39d92cd2f1bf9b337754cc7e123f5603.png",
-    "assets/images/4523190c42855996cfdd6cece461d7f94c97f6773a453557c5cdaaa904626f1a4908db268ec4e0c7b7dd96ff34cb8208220e0256bb2a636a573b07539d68bb3b.png",
     "更换wsl的子系统路径.md",
     "安装并配置kali-linux.md",
     "picgo的安装与配置.md",
@@ -192,7 +192,6 @@
     "windows安装LLama-Factory.md",
     "cmd命令行美化.md",
     "未命名.base",
-    "Obsidian.md",
     "assets/images",
     "assets",
     "Obsidian"

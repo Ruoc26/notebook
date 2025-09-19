@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLama-Factory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LLama-Factory"
-            }
-          },
-          {
-            "id": "bfa8b97c70f265fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "2025-9长城杯WP/大语言模型数据投毒.md",
                 "mode": "source",
                 "source": false
@@ -35,8 +21,7 @@
               "title": "大语言模型数据投毒"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,19 +170,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bfa8b97c70f265fb",
+  "active": "0acb48efa095ad3b",
   "lastOpenFiles": [
-    "LLama-Factory.md",
+    "2025-9长城杯WP/easy_poison.md",
     "2025-9长城杯WP/大语言模型数据投毒.md",
     "cmd.md",
-    "2025-9长城杯WP",
+    "Obsidian.md",
+    "picgo.md",
+    "git.md",
+    "LLama-Factory.md",
+    "uv.md",
     "wsl.md",
+    "2025-9长城杯WP",
     "docker.md",
     "assets/images/8e57c61518f003c8f7b58f753334fab99295ea429351e14c0ee13f154d8786515cc2c4c13acc7e123e0d388f8295eab671b823788bf302362d810ab2b48e63b3.png",
     "zsh.md",
-    "picgo.md",
-    "Obsidian.md",
-    "git.md",
     "assets/images/f2f00ab09d918ffc5ae2dfee00cb584ca2ca1024677e65b7826e38c4c378698df7b0a9304a0c21cc960bcc597c03399e81d10b448d7dca011405e2b556fa2625.png",
     "assets/images/de14671499fc77c20cc0ad67510bc0faef428ece981b21d639a9cdaf35fd12cfd8d1246b3e6bb19191989121a649e28209fac9916280c7a730cd55a9f4d2844c.png",
     "assets/images/d3b3e58f72afd0400df7543a0b9618a10a17ee21611fccd7ea082dfb2f35013914d5fef6bd4ff151fb9abd9c69e97e122c5b447a9ea0ef7e3e1dcaa244406e26.png",

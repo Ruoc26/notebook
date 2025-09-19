@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "LLama-Factory"
             }
+          },
+          {
+            "id": "bfa8b97c70f265fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-9长城杯WP/大语言模型数据投毒.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "大语言模型数据投毒"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,8 +185,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0acb48efa095ad3b",
+  "active": "bfa8b97c70f265fb",
   "lastOpenFiles": [
+    "2025-9长城杯WP",
+    "LLama-Factory.md",
+    "2025-9长城杯WP/大语言模型数据投毒.md",
     "wsl.md",
     "cmd.md",
     "docker.md",
@@ -179,7 +197,6 @@
     "zsh.md",
     "picgo.md",
     "Obsidian.md",
-    "LLama-Factory.md",
     "git.md",
     "assets/images/f2f00ab09d918ffc5ae2dfee00cb584ca2ca1024677e65b7826e38c4c378698df7b0a9304a0c21cc960bcc597c03399e81d10b448d7dca011405e2b556fa2625.png",
     "assets/images/de14671499fc77c20cc0ad67510bc0faef428ece981b21d639a9cdaf35fd12cfd8d1246b3e6bb19191989121a649e28209fac9916280c7a730cd55a9f4d2844c.png",

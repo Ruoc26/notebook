@@ -13,7 +13,11 @@ uv sync --extra torch --extra metrics --prerelease=allow
 uv pip uninstall torch torchvision
 uv pip install torch torchvision --index-url ${pytorch官方镜像}
 ```
+进入虚拟环境。
+```sh
+.venv\Scripts\activate
+```
 启动服务。
 ```sh
-.venv\Scripts\llamafactory-cli -h
+llamafactory-cli -h
 ```

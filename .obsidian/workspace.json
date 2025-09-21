@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLama-Factory.md",
+                "file": "2025-9长城杯WP/大语言模型数据投毒.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LLama-Factory"
+              "title": "大语言模型数据投毒"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "0acb48efa095ad3b",
   "lastOpenFiles": [
+    "LLama-Factory.md",
     "2025-9长城杯WP/大语言模型数据投毒.md",
     "assets/images/ce2e8757b99d8628738e772ce00decf3a76f94cbe7d62adc16d5041b737627d4523415d0159fa7cc3412dfd5ee2874daf0e4ff4e03eef2fff0f6ae43cea15f66.png",
     "2025-9长城杯WP/easy_poison.md",
@@ -183,7 +184,6 @@
     "Obsidian.md",
     "picgo.md",
     "git.md",
-    "LLama-Factory.md",
     "uv.md",
     "wsl.md",
     "2025-9长城杯WP",

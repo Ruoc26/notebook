@@ -20,3 +20,5 @@ source .venv\Scripts\activate
 ```sh
 llamafactory-cli -h
 ```
+## llamafactory 通过 webui 进行微调
+[视频教程](https://www.bilibili.com/video/BV1djgRzxEts/)。

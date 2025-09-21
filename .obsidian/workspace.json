@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-9长城杯WP/大语言模型数据投毒.md",
+                "file": "LLama-Factory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大语言模型数据投毒"
+              "title": "LLama-Factory"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "0acb48efa095ad3b",
   "lastOpenFiles": [
-    "2025-9长城杯WP/easy_poison.md",
     "2025-9长城杯WP/大语言模型数据投毒.md",
+    "assets/images/ce2e8757b99d8628738e772ce00decf3a76f94cbe7d62adc16d5041b737627d4523415d0159fa7cc3412dfd5ee2874daf0e4ff4e03eef2fff0f6ae43cea15f66.png",
+    "2025-9长城杯WP/easy_poison.md",
     "assets/images/44497ae3d39aad2a354610c2d1fede9ef34820874f5e205802e24e985153e9bcf7f8fad100441792c96e84811d1096697b7e25e2b90b80b09fedf1187459c75c.png",
     "assets/images/4894d91806eaaa0838bcbe653b025a253a60a2c1888a77732a7afb572bf488d5d3967b9cc0012edb4fd76fa6de68157d8194229c131ed478533a9c840cda9fab.png",
     "assets/images/7eb2108b15dc498027b3b95f8af8d1fbf32904aa26c50a67044b6476ab4ee9503fde5593f976d787d69b664625627728c3d7f5dea5990866a964d7f588df1a08.png",
@@ -193,7 +194,6 @@
     "assets/images/de14671499fc77c20cc0ad67510bc0faef428ece981b21d639a9cdaf35fd12cfd8d1246b3e6bb19191989121a649e28209fac9916280c7a730cd55a9f4d2844c.png",
     "assets/images/d3b3e58f72afd0400df7543a0b9618a10a17ee21611fccd7ea082dfb2f35013914d5fef6bd4ff151fb9abd9c69e97e122c5b447a9ea0ef7e3e1dcaa244406e26.png",
     "assets/images/d1a86d67b8a46db2237e91a71ef86286bd3e0f849a1071cf3fb93a87f51a9dd23dd92c4772c6c222471110289f05bb0b69fef3dd1d9f1bf24869a75239dc070d.png",
-    "assets/images/c160dbbaaf258d1ee01c59213715f3d1c5e9954cb3ae728e84658b473e34fc825276946a98117a85fbcc58a70d2e470234720c36f9964c0c8375abfeaab61b18.png",
     "安装并配置kali-linux.md",
     "未命名.base",
     "assets/images",

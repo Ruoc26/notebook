@@ -18,5 +18,7 @@
 		5. `LosslessImageRendering`，无损图像渲染，与`SmoothPixmapTransform`互斥。
 		6. `NonCosmeticBrushPatterns`，画刷纹理、渐变等随画布缩放。
 		`bool`默认表示启动，`bool`为`false`表示关闭。
-	2. 
-	3. 
+	2. `setRenderHints(RenderHints, bool = true)`。功能与`setRenderHint`相同，支持通过`|`连接开启多个选项。
+	3. `drawRect(QRect&),drawRect(QRectF&),drawRect(int, int, int, int)`。绘制矩形，边框通过`QPen`绘制，内部通过`QBrush`填充。`drawRect`的四个`int`参数分别为`(x, y)`左上点坐标，`(w, h)`矩形大小。`QRect`支持如下图所示的构造函数。![](assets/images/cf0c37a35fbca8b7461e0e365a763697da599d9294e6f1dffa634dbe5afbb9276ed87e25232687578f58d718c97e24865b7b6e1c47424721204cf64ae5d6b1d9.png)`QRectF`与`QRect`类似，但是支持浮点数做参数。
+	4. `drawRects(QList<QRect>&),drawRects(QList<QRectF>&)`。`QList`底层实现类似`std::vector`。
+	5. 

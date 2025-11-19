@@ -10,7 +10,13 @@
 ## Qt 绘图
 `Qt` 绘图应该继承`QWidget`作为画布，并重写`protected void paintEvent(QPaintEvent *event)`，在`paintEvent`函数中构造画笔`QPainter(this)`，`this`为画布指针，通过画笔绘制图像。
 1. `QPainter`常见方法。
-	1. `setRenderHint()`
-
-
-
+	1. `setRenderHint(RenderHint, bool = true)`。`RenderHint`的可选值有：
+		1. `Antialiasing`, 线段抗锯齿。
+		2. `TextAntialiasing`，文字抗锯齿。
+		3. `SmoothPixmapTransform`，图像插值平滑，对于缩放后图像有用。
+		4. `VerticalSubpixelPositioning`，高精度文字排版。
+		5. `LosslessImageRendering`，无损图像渲染，与`SmoothPixmapTransform`互斥。
+		6. `NonCosmeticBrushPatterns`，画刷纹理、渐变等随画布缩放。
+		`bool`默认表示启动，`bool`为`false`表示关闭。
+	2. 
+	3. 

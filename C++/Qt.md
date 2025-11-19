@@ -7,6 +7,10 @@
 5. 注册`Qt`账号.![](assets/images/ef7b975af7180d2e3d989a47cb3310d23d166113331b0cdef1401e9310432dd56ae98748e58fbf97aeb27124d2325bb12359e41a0d778234bca1a7c7d1a469c4.png)
 6. 操作`Qt Online Installer`下载`Qt`.
 ## Qt 控件
+## Qt 绘图
+`Qt` 绘图应该继承`QWidget`作为画布，并重写`protected void paintEvent(QPaintEvent *event)`，在`paintEvent`函数中构造画笔`QPainter(this)`，`this`为画布指针，通过画笔绘制图像。
+1. `QPainter`常见方法。
+	1. `setRenderHint()`
 
 
 

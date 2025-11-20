@@ -33,7 +33,7 @@ int main()
     spdlog::critical("Positional args are {1} {0}..", "too", "supported");
     // 设置日志级别 
     spdlog::set_level(spdlog::level::debug); // Set *global* log level to debug
-    // change log pattern
+    // 修改日志模板
     spdlog::set_pattern("[%H:%M:%S %z] [%n] [%^---%L---%$] [thread %t] %v");
 }
 

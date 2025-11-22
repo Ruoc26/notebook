@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/type_traits.md",
+                "file": "C++/exception.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "type_traits"
+              "title": "exception"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "d745688b0806fdce",
   "lastOpenFiles": [
-    "C++/Qt.md",
     "C++/type_traits.md",
+    "C++/exception.md",
+    "C++/Qt.md",
     "C++/mingw.md",
     "C++/cmake.md",
     "C++/spdlog.md",

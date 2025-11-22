@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Qt.md",
+                "file": "C++/type_traits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Qt"
+              "title": "type_traits"
             }
           }
         ]
@@ -172,10 +172,11 @@
   },
   "active": "d745688b0806fdce",
   "lastOpenFiles": [
+    "C++/Qt.md",
+    "C++/type_traits.md",
     "C++/mingw.md",
     "C++/cmake.md",
     "C++/spdlog.md",
-    "C++/Qt.md",
     "assets/images/Pasted image 20251119191736.png",
     "assets/images/Pasted image 20251119191659.png",
     "assets/images/Pasted image 20251119191651.png",

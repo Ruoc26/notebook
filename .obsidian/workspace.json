@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/exception.md",
+                "file": "C++/template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "exception"
+              "title": "template"
             }
           }
         ]
@@ -172,12 +172,13 @@
   },
   "active": "d745688b0806fdce",
   "lastOpenFiles": [
-    "C++/type_traits.md",
-    "C++/exception.md",
+    "C++/spdlog.md",
+    "C++/template.md",
     "C++/Qt.md",
     "C++/mingw.md",
     "C++/cmake.md",
-    "C++/spdlog.md",
+    "C++/exception.md",
+    "C++/type_traits.md",
     "assets/images/Pasted image 20251119191736.png",
     "assets/images/Pasted image 20251119191659.png",
     "assets/images/Pasted image 20251119191651.png",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/template.md",
+                "file": "LeetCode/双指针(TwoPointers).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "template"
+              "title": "双指针(TwoPointers)"
             }
           }
         ]
@@ -172,8 +172,10 @@
   },
   "active": "d745688b0806fdce",
   "lastOpenFiles": [
-    "C++/spdlog.md",
     "C++/template.md",
+    "LeetCode/双指针(TwoPointers).md",
+    "LeetCode",
+    "C++/spdlog.md",
     "C++/Qt.md",
     "C++/mingw.md",
     "C++/cmake.md",

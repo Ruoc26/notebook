@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "90909345eb871b0c",
+        "id": "8afdfbb3733c9562",
         "type": "tabs",
         "children": [
           {
-            "id": "d745688b0806fdce",
+            "id": "9daa274e2fd712e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "LeetCode/双指针(TwoPointers).md",
-                "mode": "source",
-                "source": false
+                "aFile": "uv.md",
+                "bFile": "uv.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "双指针(TwoPointers)"
+              "icon": "diff",
+              "title": "Diff: uv"
             }
           }
         ]
@@ -150,30 +150,45 @@
               "icon": "lucide-list",
               "title": "Pasted image 20250918112059 的大纲"
             }
+          },
+          {
+            "id": "0ba0625ba410e6bf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
-      "obsidian-git:Open Git source control": false
+      "bases:创建新数据库": false
     }
   },
-  "active": "d745688b0806fdce",
+  "active": "9daa274e2fd712e5",
   "lastOpenFiles": [
-    "C++/template.md",
+    "Test.md",
+    "zsh.md",
+    "wsl.md",
+    "Obsidian.md",
+    "git.md",
     "LeetCode/双指针(TwoPointers).md",
+    "C++/template.md",
     "LeetCode",
     "C++/spdlog.md",
     "C++/Qt.md",
@@ -191,8 +206,6 @@
     "assets/images/ef7b975af7180d2e3d989a47cb3310d23d166113331b0cdef1401e9310432dd56ae98748e58fbf97aeb27124d2325bb12359e41a0d778234bca1a7c7d1a469c4.png",
     "assets/images/91ef3b5bfab1435f9c24851508037cf013b28ac55612bd54037a45236e4e77ae82f1e5e05f7da32ca824f539e294020493cb1c054eb6f0f206170846ce37bf40.png",
     "assets/images/2c0d7bee4aa38bf88f449e2ce8c4034bd0aeed0a019e38d43cf13770d39a24642849f7a3befb1a62ef8769cbe3de4c4cfdcdd0efc6a4ab04e8c606514ba95ede.png",
-    "Obsidian.md",
-    "git.md",
     "C++",
     "cmd.md",
     "docker.md",
@@ -200,8 +213,6 @@
     "nuitka.md",
     "picgo.md",
     "uv.md",
-    "wsl.md",
-    "zsh.md",
     "国网计算机.md",
     "微服务.md",
     "2025-9长城杯WP/easy_poison.md",

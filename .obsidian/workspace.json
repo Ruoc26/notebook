@@ -11,14 +11,14 @@
             "id": "9daa274e2fd712e5",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "uv.md",
-                "bFile": "uv.md",
-                "aRef": ""
+                "file": "git.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: uv"
+              "icon": "lucide-file",
+              "title": "git"
             }
           }
         ]
@@ -182,11 +182,11 @@
   },
   "active": "9daa274e2fd712e5",
   "lastOpenFiles": [
+    "git.md",
     "Test.md",
     "zsh.md",
     "wsl.md",
     "Obsidian.md",
-    "git.md",
     "LeetCode/双指针(TwoPointers).md",
     "C++/template.md",
     "LeetCode",
